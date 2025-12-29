@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"></stop>
+      <stop offset="100%" stop-color="#0EA5E9"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded background -->
+  <rect width="64" height="64" rx="10" fill="url(#grad)"></rect>
+
+  <!-- Stylized "W" shape -->
+  <path d="M12 22L19 45L26 22H33L39 38L45 22H52L43 48H34L29 30L24 48H17L8 22H12Z" fill="#FFFFFF" opacity="0.95"></path>
+
+  <!-- Light highlight -->
+  <path d="M8 16C20 6 44 6 56 16C44 14 20 14 8 16Z" fill="#FFFFFF" opacity="0.15"></path>
+</svg>
