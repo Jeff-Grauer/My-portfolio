@@ -60,16 +60,6 @@ export default function Projects() {
             <span className="text-xl font-bold md:text-2xl">
               Every day I learn something new 🧑‍💻
             </span>
-            <p className="mt-10 text-base md:text-xl">
-              Visit my GitHub to see all my projects{" "}
-              <a
-                href={`${siteMetadata.github}?tab=repositories`}
-                target="_blank"
-                className="font-semibold text-accent underline underline-offset-2 hover:text-accent/70"
-              >
-                Github
-              </a>
-            </p>
           </div>
         </div>
       </section>

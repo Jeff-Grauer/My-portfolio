@@ -1,7 +1,7 @@
 export const siteMetadata = {
-  title: "NikitaMart portfolio",
-  author: "NikitaMart",
-  headerTitle: "NikitaMart",
+  title: "Jeff portfolio",
+  author: "Jeff",
+  headerTitle: "Jeff",
   description: "Frontend Developer & Designer",
   language: "en-us",
   theme: "light",
