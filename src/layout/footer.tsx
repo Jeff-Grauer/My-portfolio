@@ -1,6 +1,5 @@
 import ContactButton from "@/components/contact-form/contact-button";
 import {
-  GithubIcon,
   LinkedinIcon,
 } from "@/components/icons"; // Import InstagramIcon
 import { siteMetadata } from "@/data/siteMetaData.mjs";
