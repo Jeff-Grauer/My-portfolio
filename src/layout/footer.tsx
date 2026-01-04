@@ -1,7 +1,5 @@
 import ContactButton from "@/components/contact-form/contact-button";
-import {
-  LinkedinIcon,
-} from "@/components/icons"; // Import InstagramIcon
+import { LinkedinIcon, GithubIcon } from "@/components/icons"; // Import InstagramIcon
 import { siteMetadata } from "@/data/siteMetaData.mjs";
 
 export default function Footer() {
