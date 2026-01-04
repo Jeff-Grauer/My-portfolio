@@ -22,4 +22,3 @@ export const EDUCATION: ExperienceShowcaseListItemProps[] = [
     description: "",
   },
 ];
-
